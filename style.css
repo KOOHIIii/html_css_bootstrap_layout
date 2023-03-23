@@ -2,42 +2,51 @@ body {
 	margin: 0% auto;
 	padding: 0% auto;
 }
-header .header-main{
+
+header .header-main {
 	display: block;
 	max-width: 100%;
 	text-align: center;
 	background-color: #000;
 }
-header .header-main img{
+
+header .header-main img {
 	max-width: 150px;
 	height: auto;
 	padding: 12px;
 }
-header .header-bt{
+
+header .header-bt {
 	display: block;
 	background-color: gray;
 	text-align: center;
 }
-header .header-bt .container .row .col a{
+
+header .header-bt .container .row .col a {
 	text-decoration: none;
 	color: #fff;
 	padding-left: 12px;
 	padding-right: 12px;
 }
-header .header-bt .container .row .col{
+
+header .header-bt .container .row .col {
 	text-align: left;
 }
-.main-cn{
+
+.main-cn {
 	text-align: center;
 }
-.main-cn .container .row .item img{
+
+.main-cn .container .row .item img {
 	max-width: 80px;
 	height: auto;
 }
-.main-cn .container .row .item{
+
+.main-cn .container .row .item {
 	padding: 12px;
 	padding-top: 24px;
 }
+
 .contain-news .container .row .left-news .box-news .in-box {
 	display: inline-block;
 	height: 50px;
@@ -45,14 +54,17 @@ header .header-bt .container .row .col{
 	background: #000;
 	vertical-align: middle;
 }
+
 .contain-news .container .row .left-news .text-box {
 	display: inline-block;
 	vertical-align: middle;
 	font-size: 25px;
 }
-.contain-news .container .left-news .box-news{
-	background-color: darkgray ;
+
+.contain-news .container .left-news .box-news {
+	background-color: darkgray;
 }
+
 .contain-news .container .row .right-news .serch-box .in-box {
 	display: inline-block;
 	height: 35px;
@@ -60,39 +72,48 @@ header .header-bt .container .row .col{
 	background: #000;
 	vertical-align: middle;
 }
+
 .contain-news .container .row .right-news .text-box {
 	display: inline-block;
 	vertical-align: middle;
 	font-size: 12px;
 }
-.contain-news .container .right-news .serch-box{
-	background-color: darkgray ;
+
+.contain-news .container .right-news .serch-box {
+	background-color: darkgray;
 }
+
 .content-news {
 	margin-top: 12px;
 	padding-bottom: 12px;
 	border-bottom: 2px solid #000;
 }
-.type-serch .type-serch-box .serch-text{
+
+.type-serch .type-serch-box .serch-text {
 	max-width: 100%;
 	text-align: center;
 }
-.type-serch .container .row .type-serch-box .serch-text input{
+
+.type-serch .container .row .type-serch-box .serch-text input {
 	width: 80%;
 	margin: 12px;
 }
+
 .blog-con {
 	margin-top: 12px;
 	border-bottom: 2px solid #000;
 	padding-bottom: 12px;
 }
-.blog-con .container .row .text-blog{
+
+.blog-con .container .row .text-blog {
 	text-align: center;
 }
-.blog-con .container .row .text-blog h6{
+
+.blog-con .container .row .text-blog h6 {
 	padding-top: 20px;
 }
-.ct .container .row{
+
+.ct .container .row {
 	font-size: 15px;
 	margin-top: 12px;
 	text-align: center;
